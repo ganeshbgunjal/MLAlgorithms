@@ -1,0 +1,1 @@
+This repo contains Machine learning algo practice from videos.
